@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chamabem_repository/!svn/ver/2/chamabem-api/trunk/src/main/java/com/chamabem/core/exception
+END
+AccessDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/chamabem_repository/!svn/ver/2/chamabem-api/trunk/src/main/java/com/chamabem/core/exception/AccessDeniedException.java
+END
+RecordAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/chamabem_repository/!svn/ver/2/chamabem-api/trunk/src/main/java/com/chamabem/core/exception/RecordAlreadyExistsException.java
+END
+ValidationExceptionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/chamabem_repository/!svn/ver/20/chamabem-api/trunk/src/main/java/com/chamabem/core/exception/ValidationExceptionMapper.java
+END
+ValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/chamabem_repository/!svn/ver/20/chamabem-api/trunk/src/main/java/com/chamabem/core/exception/ValidationException.java
+END
+ChamabemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/chamabem_repository/!svn/ver/2/chamabem-api/trunk/src/main/java/com/chamabem/core/exception/ChamabemException.java
+END
+AccessDeniedExceptionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/chamabem_repository/!svn/ver/2/chamabem-api/trunk/src/main/java/com/chamabem/core/exception/AccessDeniedExceptionMapper.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chamabem_repository/!svn/ver/12/chamabem-api/trunk/src/main/webapp/WEB-INF
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chamabem_repository/!svn/ver/2/chamabem-api/trunk/src/main/webapp/WEB-INF/faces-config.xml
+END
+mysql-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chamabem_repository/!svn/ver/12/chamabem-api/trunk/src/main/webapp/WEB-INF/mysql-ds.xml
+END
+beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chamabem_repository/!svn/ver/2/chamabem-api/trunk/src/main/webapp/WEB-INF/beans.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chamabem_repository/!svn/ver/32/chamabem-api/trunk/src/main/webapp/WEB-INF/web.xml
+END

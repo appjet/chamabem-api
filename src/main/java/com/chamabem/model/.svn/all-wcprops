@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chamabem_repository/!svn/ver/14/chamabem-api/trunk/src/main/java/com/chamabem/model
+END
+ApiAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chamabem_repository/!svn/ver/2/chamabem-api/trunk/src/main/java/com/chamabem/model/ApiAccess.java
+END
+TaxiCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chamabem_repository/!svn/ver/20/chamabem-api/trunk/src/main/java/com/chamabem/model/TaxiCall.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chamabem_repository/!svn/ver/20/chamabem-api/trunk/src/main/java/com/chamabem/model/User.java
+END

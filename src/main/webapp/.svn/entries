@@ -1,0 +1,77 @@
+10
+
+dir
+14
+http://chamabem.unfuddle.com/svn/chamabem_repository/chamabem-api/trunk/src/main/webapp
+http://chamabem.unfuddle.com/svn/chamabem_repository
+
+
+
+2013-05-14T18:13:38.738271Z
+12
+leonardoss
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1542692b-1061-47b2-b6c8-f9d4093882a7
+
+WEB-INF
+dir
+
+css
+dir
+
+img
+dir
+
+index.html
+file
+
+
+
+
+2013-05-16T13:42:04.000000Z
+c427509ab0da8a566f48387d6d68170e
+2013-05-13T17:25:18.511800Z
+2
+leonardoss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3603
+
+js
+dir
+
+lib
+dir
+

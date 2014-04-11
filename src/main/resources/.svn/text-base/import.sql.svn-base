@@ -1,0 +1,7 @@
+-- You can use this file to load seed data into the database using SQL statements
+insert into MemberHibernate4Demo (id, name, email, phone_number, address) values (0, 'John Smith', 'john.smith@mailinator.com', '2125551212', 'Boston NY') 
+
+insert into User (name, email, password, address) values ('Leonardo Salles', 'leonardo_guirdo@hotmail.com', md5('157321'), 'Boston NY')
+
+
+insert into ApiAccess (publicKey, privateKey) values ('MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbfyYdw2j5gOF7X9cdFrUKJ+MRTAfpJB+opBxjSw7iAZNUv9TmQHH/LSAim2ucaBRiB/Cqm1agocip3g8YC7Md/AhCtN+di0uc3d0F2c7H/WZm4n98IPjwfjmxNUJxdvKnF3CezY9nCCHWu36NvtMlCKLlO14Iu/PNvsVVv85zowIDAQAB', 'MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAJt/Jh3DaPmA4Xtf1x0WtQon4xFMB+kkH6ikHGNLDuIBk1S/1OZAcf8tICKba5xoFGIH8KqbVqChyKneDxgLsx38CEK0352LS5zd3QXZzsf9Zmbif3wg+PB+ObE1QnF28qcXcJ7Nj2cIIda7fo2+0yUIouU7Xgi7882+xVW/znOjAgMBAAECgYARu7RrHIfyPGJ6oXl01cwbtmTM6jDUw8vgfabHJB40ZB2bQq1S/PKDOXA6wiLJmY0JiQJHUqPUed7akHqEMYFhsnbuN+jfUOjwzWluVWMnL+T5f/fAZ+RkunkzOEQmqsjX9jpFyz7uck5JX/L5ii8W/Q5dYskfYoTbohYiylBRwQJBANFkLklSKc3cijaVgydlhA9AkWsB3iUqnE7MbPqYtJCHhs4FADgUqLIVbvMP2lEupX72gdfHV8D8JXt8sfA4g1MCQQC+G97AqnS03LB5lD5wUoCWzKmF+IAyTtJFjl1R6FGXLQkqCZbcA46L3huHnZNCmbPwPwpc25nFC9xctOo3vhRxAkA/Y5SfncAKEjnFTH3n71OLSoC7ZFVb6wpm0HwtYQ1Is76bn+fxEk//mX19F89/xB9V0Ep+iFqIkczHFXjIwFMBAkEAgAjxKr0iQLTpPdizfJ5z8BwCiDHm1Pr07teEzicy3Cf+pgszSRY0KMr7q4hap14xK7qpVgSoOWdVkDJgFA62YQJAdEvbnf2FNY3elZriceKDkNbhdjk/AgqPzWjCIcU/DNERbxGQZ/0i6v03Yli6Rmb5KP4ZiIeGgGICrea6xF/0oA==')
