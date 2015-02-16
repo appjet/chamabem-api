@@ -20,10 +20,10 @@ public class ResponseUtils {
 
 	public static void setResponseHeaders(HttpResponse response) throws IOException {
 //		log.info("Entrou: setResponseHeaders()");
-//		response.getOutputHeaders().putSingle("totvs-page-number", search.getPageNumber());
-//		response.getOutputHeaders().putSingle("totvs-page-size", search.getPageSize());
-//		response.getOutputHeaders().putSingle("totvs-total-records", search.getTotalRecords());
-//		response.getOutputHeaders().putSingle("totvs-total-pages", search.getTotalPages());
+//		response.getOutputHeaders().putSingle("page-number", search.getPageNumber());
+//		response.getOutputHeaders().putSingle("page-size", search.getPageSize());
+//		response.getOutputHeaders().putSingle("total-records", search.getTotalRecords());
+//		response.getOutputHeaders().putSingle("total-pages", search.getTotalPages());
 //		log.info("Setou HTTP Headers");
 //		// se request tentou buscar uma pagina maior que o que realmente existe,
 //		// setar HTTP CODE 204: "No content"
@@ -37,20 +37,20 @@ public class ResponseUtils {
 
 //	public static <E> List<E> build(TBNativeQuery<E> query, org.jboss.resteasy.spi.HttpResponse response) {
 //		if (query.getResultCount() != null && query.getResultCount() > 0) {
-//			response.getOutputHeaders().putSingle("totvs-total-count", query.getResultCount());
-//			response.getOutputHeaders().putSingle("totvs-current-page", query.getPage());
-//			response.getOutputHeaders().putSingle("totvs-total-pages", query.getPageCount());
-//			response.getOutputHeaders().putSingle("totvs-page-size", query.getMaxResults());
+//			response.getOutputHeaders().putSingle("total-count", query.getResultCount());
+//			response.getOutputHeaders().putSingle("current-page", query.getPage());
+//			response.getOutputHeaders().putSingle("total-pages", query.getPageCount());
+//			response.getOutputHeaders().putSingle("page-size", query.getMaxResults());
 //		}
 //		return query.getResultList();
 //	}
 //
 //	public static <E> List<E> build(TBEntityQuery<E> query, org.jboss.resteasy.spi.HttpResponse response) {
 //		if (query.getResultCount() != null && query.getResultCount() > 0) {
-//			response.getOutputHeaders().putSingle("totvs-total-count", query.getResultCount());
-//			response.getOutputHeaders().putSingle("totvs-current-page", query.getPage());
-//			response.getOutputHeaders().putSingle("totvs-total-pages", query.getPageCount());
-//			response.getOutputHeaders().putSingle("totvs-page-size", query.getMaxResults());
+//			response.getOutputHeaders().putSingle("total-count", query.getResultCount());
+//			response.getOutputHeaders().putSingle("current-page", query.getPage());
+//			response.getOutputHeaders().putSingle("total-pages", query.getPageCount());
+//			response.getOutputHeaders().putSingle("page-size", query.getMaxResults());
 //			;
 //		}
 //		return query.getResultList();
